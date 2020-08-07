@@ -1,0 +1,8 @@
+@charset "UTF-8";
+#global_navi a {
+    transition: color 1s linear;
+}
+
+#global_navi a:hover {
+    color: #808080;
+}

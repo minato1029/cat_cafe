@@ -1,0 +1,11 @@
+@charset "UTF-8";
+div {
+    width: 600px;
+    position: relative;
+}
+
+a.btn {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}

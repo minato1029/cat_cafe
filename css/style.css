@@ -1,0 +1,254 @@
+@charset "UTF-8";
+
+body {
+    line-height: 1.7;
+    font-size: 16px;
+    /*font-family: -apple-system;*/
+    color: #000000;
+}
+a:link {
+    color: #3585b7;
+}
+a:visited {
+    color: #6252B7;
+}
+a:hover {
+    color: #555555;
+    text-decoration: none;
+}
+
+/*  header  */
+header {
+    display: flex;
+}
+header h1 {
+    margin: 25px 0 0 20px;
+}
+header nav {
+    margin: 0 0 0 auto;
+}
+header nav ul {
+    list-style-type: none;
+    display: flex;
+    margin: 20px 0;
+}
+header nav ul a,
+header nav ul a:link,
+header nav ul a:visited {
+    padding: 10px 15px;
+    text-decoration: none;
+    color: #000000;
+    display: block;
+}
+
+/*  footer  */
+footer {
+    background-color: #ede6e6;
+    padding: 20px;
+}
+footer ul {
+    list-style-type: none;
+    margin: 0 0 5px;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+}
+footer ul li {
+    margin: 0 0 0 20px;
+}
+footer ul li a,
+footer ul li a:link,
+footer ul li a:visited {
+    text-decoration: none;
+    font-size: 13px;
+    color: #888;
+}
+footer p {
+    margin: 0;
+    text-align: right;
+    color: #888;
+}
+
+
+/*  main    */
+main .visual img{
+    display: block;
+    margin: 0 auto;
+}
+main .visual p {
+    position: absolute;
+    color: #7f6666;
+}
+main .visual .aaa {
+    font-size: 45px;
+    top: 300px;
+    left: 200px;
+}
+main .visual .bbb {
+    font-size: 25px;
+    top: 375px;
+    left: 200px;
+}
+main .inner {
+    width: 1000px;
+    margin: 50px auto;
+}
+main .inner section {
+    display: flex;
+    margin-top: 50px;
+}
+main .inner section .ccc {
+    margin-right: 40px;
+    margin-left: 40px;
+}
+main .inner section:first-child {
+    flex-direction: row-reverse;
+}
+main h2 {
+    margin: 50px 0 20px;
+    font-weight: normal;
+    font-size: 25px;
+    color: #7f6666;
+}
+main p {
+    margin: 0 0 15px;
+}
+main {
+    width: 100%;
+}
+main dl dt {
+    float: left;
+    /*clear: both;*/
+    padding: 10px 0;
+    color: #998484;
+}
+main dl dd {
+    padding: 10px 0 10px 150px;
+    margin: 0;
+    border-bottom: solid 1px #ccc;
+}
+
+/*  guide   */
+main .title {
+    padding: 50px;
+    background: #f4e3e3;
+}
+main .title h1 {
+    margin: 0;
+    line-height: 1;
+    font-size: 45px;
+    color: #7f6666;
+}
+main .title ol {
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+    margin: 20px 0 0;
+}
+main .title ol li {
+    font-size: 13px;
+}
+main .title ol li::after {
+    content: ">";
+    margin: 0 5px 0 10px;
+}
+main .title ol li:last-child::after {
+    content: none;
+}
+.guide .about {
+    display: flex;
+    /*float: left;*/
+    width: 1000px;
+    margin: 0 auto;
+}
+.guide .about div {
+    width: 50%;
+}
+.guide .about dl {
+    font-size: 18px;
+}
+.guide .about dd {
+    border: none;
+    padding-left: 5em ;
+}
+.guide .about table {
+    width: 100%;
+    text-align: center;
+}
+
+.guide .about table,
+.guide .about table th,
+.guide .about table td {
+    border: solid 1px #cccccc;
+    border-collapse: collapse;
+}
+.guide .about table th,
+.guide .about table td {
+    padding: 5px;
+}
+.guide .about table th {
+    background: #f7f0f0;
+    color: #998484;
+}
+
+
+
+/*  cast    */
+.cast main .cast-profile {
+    display: flex;
+    margin-top: 50px;
+}
+.cast main .cast-profile dl {
+    margin: 0 0 0 50px;
+    font-size: 15px;
+}
+
+
+/*  contact */.contact main .must {
+                  margin: 0 5px;
+                  color: #d23939;
+              }
+.contact main p {
+    margin: 0 0 50px;
+}
+.contact main dl dd {
+    padding-left: 15em;
+}
+.contact main input,
+.contact main textarea {
+    border: solid 1px #ccc;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.contact main input[name="email"] {
+    width: 50%;
+}
+.contact main textarea {
+    width: 100%;
+}
+.contact main .submit {
+    margin: 10px 0;
+    text-align: center;
+}
+.contact main input[type="submit"] {
+    background: #7f6666;
+    padding: 20px;
+    width: 300px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 18px;
+    color: #fff;
+}
+.contact main input[type="submit"]:hover {
+    opacity: 0.8;
+}
+
+
+/*  sitemap */
+
+.sitemap main ul {
+    margin-top: 50px;
+}
+.sitemap main ul li {
+    margin: 0 0 20px;
+}

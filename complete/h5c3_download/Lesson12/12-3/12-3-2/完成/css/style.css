@@ -1,0 +1,10 @@
+@charset "UTF-8";
+th {
+    border-bottom: 1px solid #cccccc;
+    padding: 10px;
+    text-align: left;
+}
+
+td {
+    padding: 10px;
+}

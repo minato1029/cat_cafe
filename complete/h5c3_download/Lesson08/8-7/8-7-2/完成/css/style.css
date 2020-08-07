@@ -1,0 +1,6 @@
+@charset "UTF-8";
+h5 {
+    background-image: url(../images/star.png); 
+    padding-left: 20px;
+    background-repeat: no-repeat;
+}

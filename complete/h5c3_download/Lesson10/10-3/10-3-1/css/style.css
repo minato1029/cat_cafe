@@ -1,0 +1,14 @@
+@charset "UTF-8";
+.item1 {
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    background: #deffd8;
+}
+
+.item2 {
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    background: #ffded8;
+}

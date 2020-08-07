@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6096ebff-1826-4d4f-a33a-6bb15882b426" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f7sNAXfu9LiRZnBF0HIbnD41ED" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.access.html">
+    <configuration name="access.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cat_cafe/access.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="guide.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cat_cafe/guide.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="guide.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cat_cafe/完成サイト/guide.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cat_cafe/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.access.html" />
+        <item itemvalue="JavaScript Debug.guide.html (1)" />
+        <item itemvalue="JavaScript Debug.guide.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6096ebff-1826-4d4f-a33a-6bb15882b426" name="Default Changelist" comment="" />
+      <created>1595580422864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595580422864</updated>
+      <workItem from="1595580424032" duration="590000" />
+      <workItem from="1595581036649" duration="287000" />
+      <workItem from="1595581335886" duration="3615000" />
+      <workItem from="1595656413211" duration="9203000" />
+      <workItem from="1595665783732" duration="1525000" />
+      <workItem from="1596010898319" duration="4605000" />
+      <workItem from="1596786156538" duration="5701000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="436" y="164" key="SettingsEditor" timestamp="1595656745458">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="436" y="164" key="SettingsEditor/-1932.1076.1920.1040/0.0.1920.1040/1920.0.1920.1040/-1920.-4.1920.1040@0.0.1920.1040" timestamp="1595656745458" />
+    <state x="824" y="184" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1595583389962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="824" y="184" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1932.1076.1920.1040/0.0.1920.1040/1920.0.1920.1040/-1920.-4.1920.1040@0.0.1920.1040" timestamp="1595583389962" />
+    <state x="584" y="242" key="run.anything.popup" timestamp="1595581249198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="584" y="242" key="run.anything.popup/-1932.1076.1920.1040/0.0.1920.1040/1920.0.1920.1040/-1920.-4.1920.1040@0.0.1920.1040" timestamp="1595581249198" />
+  </component>
+</project>
